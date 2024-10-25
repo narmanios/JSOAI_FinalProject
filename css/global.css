@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Special Elite";
+  src: url("../fonts/SpecialElite-Regular.ttf") format("truetype");
+}
+
+body {
+  font-family: "Inter";
+  color: black;
+  background: white;
+  margin: auto;
+}
