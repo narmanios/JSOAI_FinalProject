@@ -9,3 +9,9 @@ body {
   background: white;
   margin: auto;
 }
+
+#header-image img {
+  width: 400px;
+  margin: auto;
+  padding-top: 40px;
+}
