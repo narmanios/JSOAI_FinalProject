@@ -1,7 +1,5 @@
 body {
   background-color: #000;
-}
-body {
   font-family: "Roboto Mono", monospace;
   color: rgb(255, 255, 255);
   font-size: 12px;
@@ -25,7 +23,7 @@ body {
   z-index: 2;
 }
 
-.text-bg-two {
+/* .text-bg-two {
   position: relative;
   height: 100vh;
   color: white;
@@ -39,7 +37,7 @@ body {
   font-size: 600px;
   color: rgba(194, 235, 82, 0.2);
   z-index: -1;
-}
+} */
 
 #header-image {
   position: relative;
